@@ -10,23 +10,43 @@ Many members and prominent figures of BSMP/PSMP came from CSMP.
 
 ### CSMP-1
 
+The first season of CiblesSMP, unofficial.
+
 #### Nations
+
+XXX
 
 ### CSMP-2
 
+The second season of CiblesSMP, unofficial.
+
 #### Nations
+
+XXX
 
 ### CSMP-3
 
+The third season of CiblesSMP, official.
+
 #### Nations
+
+XXX
 
 ### CSMP-4
 
+The fourth season of CiblesSMP, official.
+
 #### Nations
+
+XXX
 
 ### CSMP-5
 
+The fifth season of CiblesSMP, official.
+
 #### Nations
+
+XXX
 
 ## Blueberry SMP
 
@@ -34,7 +54,55 @@ Blueberry SMP (BSMP) was a Minecraft SMP run by user [Redy2794 (Redy)](figures.m
 
 ### BSMP-1
 
+BSMP was the first season of BSMP. Whenever BSMP without a -season suffix is mentioned, you should assume it is referring to **this season** of BSMP. This season started on 3/17/2025 and ended on 6/21/2025. This server was originally developed in partnership with Hailey's server, as Redy was an admin in that server.
+
 #### Nations
+
+**Soleil**
+
+Soleil was the first large nation on the server. It was originally founded by [Mona](figures.md#mona). It's likely that it became so large because Redy was a member of the nation, and as the server owner and a very popular figure, they likely attracted many people.
+
+Soleil was made on a large island in the [central ocean](central.md#server-seeds). Although it was mostly concentrated on the river that ran through it. Eventually, Mona gave up leadership temporarily to Redy, as they had to take care of irl school agendas first. Redy ended up owning the server for the rest of the season. This nation became a town of Abyssnia after Redy decided they wanted to focus on Abyssnia more.
+
+Soleil was also almost called Pretta before they changed their name.
+
+Members:<br>
+XXX
+
+**Clemonstide**
+
+Clemonstide was founded by [Kiwian](figures.md#kiwian) and co-led by [Cyn](figures.md#cyn). It was founded soon after Soleil and was the second nation to become official. Clemonstide was south and slightly west of Soleil, and eventually created a large sky railway between the nations.
+
+Members:<br>
+XXX
+
+**Abyssnia**
+
+Abyssnia was the nation Redy created after abandoning Soleil. They wanted a fresh start to make their own nation. Many Soleil members ended up moving to Abyssnia. Abyssnia's creation was also just around when Kiwian and Redy started dating. This meant not only was Soleil effectively abandoned. but so was Clemonstide, as Kiwian spent their time almost exclusively in Abyssnia.
+
+Members:<br>
+XXX
+
+**Erebus**
+
+Erebus was a nation that never became official. It was run by Hailey before they abandoned it. It was far north above Soleil, and was farther from all nations than any other. It was a mostly underground nation and was built to be very modular by Hailey.
+
+Members:<br>
+XXX
+
+**Grillby's**
+
+Grillby's Nation was a nation that never became official. It was run by Grillby and was west of spawn. It was comprised mostly of polished deepslate, giving it a very unique look. As well, the nation established an ice highway that led straight to spawn. This ended up working against them though, as any bad actors that found their way into the server would immediately grief Grillby's first because of the easy access.
+
+Members:<br>
+XXX
+
+**Puffia**
+
+Puffia was a nation that never became official despite being the 3rd oldest after Clemonstide. This nation was run by [Julie](figures.md#julie). It was relatively small compared to the other nations, and did not have great upkeep. Despite this, there were nice buildings and it was a cool place. This nation was located just west of spawn on about the closest coast to the spawn island.
+
+Members:<br>
+XXX
 
 ### BSMP-2
 
@@ -42,11 +110,11 @@ Due to the fact that this server was cancelled before it even fully released and
 
 #### Nations
 
-##### Clemonstide
+**Clemonstide**
 
-Run by Kiwian (and possibly co-ledz?). It had 3 members at the last recorded announcement.
+Run by Kiwian (and possibly co-led?). It had 3 members at the last recorded announcement.
 
-##### The Kitchen
+**The Kitchen**
 
 This nation's leader is not documented, but from my own recollection it included Redy and some of her British friends.
 This nation was called the Anti-Deadlier Faction for a short period of time before being renamed. [Deadlier](figures.md#deadlier) is a server member.
@@ -54,6 +122,12 @@ This nation was called the Anti-Deadlier Faction for a short period of time befo
 ## Pineapple SMP
 
 Pineapple SMP (PSMP) is the current Minecraft SMP run by yours truly, [Kiwian (KiwianDoesThings)](figures.md#kiwian). PSMP is currently in its first and so-far only season.
+
+### PSMP-1
+
+#### Nations
+
+Please check out [nations](nations.md).
 
 ## Server Lineage
 

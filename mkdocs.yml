@@ -1,6 +1,7 @@
 site_name: Pineapple SMP Wiki
 nav:
   - Home: index.md
+  - Servers Info: central.md
   - PSMP Info: info.md
   - Nations: nations.md
   - Significant Figures: figures.md

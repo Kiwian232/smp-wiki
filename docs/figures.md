@@ -116,33 +116,64 @@ Cass is Redy's platonic wife, and has been since [CSMP-5](history.md#csmp-5) whe
 
 ### J
 
+J is also known as "Loverboy". He is gay and amazing best friend. He was around back in some [CSMP](history.md#cibles-smp) season, and was helped by Scarlett personally, which led to them being good friends.
+
 ### Julie
+
+Julie/Teto/Alex is a cool person!!
 
 ### Ren
 
+Ren was introduced in PSMP as one of Kiwian's irl friends. They dated for roughly a month also.
+
 ### SanaCoinLemon
+
+Sana CoinLemon is a super cool person who also came from Cibles like many others.
 
 ## Honorable Mentions
 This third list includes many less important members in alphabetical order.
 
-# Astra
+### Astra
 
-# CuppaCocoa
+Super cool programmer person who met Kiwian back in Cibles and contributed to Kiwian's project [KiwiCubed](https://github.com/kiwiandoesthings/kiwicubed).
 
-# Deadlier
+### CuppaCocoa
 
-# HorrorCrow
+CuppaCocoa was also introduced to PSMP-1 from Kiwian as one of Kiwian's irl friends. They love to join the server every day for exactly 5 minutes.
 
-# Jamenson
+### Deadlier
 
-# Kesari
+DeadlierWig is a cool femboy. They joined back in BSMP days.
 
-# Kman
+### HorrorCrow
 
-# Melodii
+HorrorCrow is one of the few adult peoples still let on the server cuz they're really chill and not a pedophile like most of the others.
+On a lighter note, Crow is engaged and joined back in BSMP days and makes cool builds.
 
-# Nyko
+### Jamenson
 
-# Sypn
+Jamenson is an irl friend of Grillby who was introduced back in BSMP days.
 
-# Red
+### Kesari
+
+Kesari is funny woman who is dating Katie and loves their girlfriend!! They joined back in BSMP days as "Kesari, witch of the jungle". They love creakings.
+
+### Kman
+
+Kman is a friend of Sypn_, who both joined mid-BSMP. Scarlett likes to lust over the both of them.
+
+### Melodii
+
+A friend of Kesari, equally if not more freaky than them. They like seals. They joined in PSMP-1.
+
+### Nyko
+
+Nyko is a cool guy who is moderately active on the server. He joined in PSMP-1.
+
+### Sypn
+
+Ditto of [Kman](figures.md#kman).
+
+### Red
+
+Red is a cool girl who made an unofficial nation Nechron in BSMP. They did not continue it in PSMP, sadly, but it was super cool. They also squatted on my propety on Clemonstide for soooo long the server ended before they moved off.
