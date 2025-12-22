@@ -9,4 +9,4 @@ This wiki should cover all important aspects of the PSMP, as well as link to all
 
 Every season, all wiki pages that relate to season-specific information will be archived, and new ones will be made. You will be able to view page archives.
 
-# THIS WIKI IS A W.I.P.
+# THIS WIKI IS A CONSTANT W.I.P., BUT EVEN MORE SO RIGHT NOW.
