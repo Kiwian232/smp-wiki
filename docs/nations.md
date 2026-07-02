@@ -6,8 +6,8 @@ This is a list of nations (in order of creation date) in PSMP only. For nations 
 
 Clemonstide is run by [Kiwian](figures.md#kiwian) and [Hoki](figures.md#hoki). Clemonstide has nine members including:
 
- - Cass
- - Kesari
+ - Madeline
+ - Cambrian
  - Melodii
  - HorrorCrow
  - Ren
@@ -23,7 +23,7 @@ Clemonstide is the largest lit area in [PSMP](history.md#pineapple-smp), with th
 Raspberria is run by [Sunny Astrom](figures.md#sunny). Raspberria has five members including:
 
  - Red
- - Cassidy
+ - Madelineidy
  - NekoMoon
  - CuppaCocoa
 

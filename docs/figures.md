@@ -110,9 +110,9 @@ Brian led [The Carribbean](nations.md#the-carribbean) in PSMP.
 ## Other Important Figures
 This second list includes many non-nation leaders who are also important in order of importance.
 
-### Cass
+### Madeline
 
-Cass is Redy's platonic wife, and has been since [CSMP-5](history.md#csmp-5) when they met.
+Madeline is Redy's platonic wife, and has been since [CSMP-5](history.md#csmp-5) when they met.
 
 ### J
 
@@ -126,7 +126,7 @@ Julie/Teto/Alex is a cool person!!
 
 Ren was introduced in PSMP as one of Kiwian's irl friends. They dated for roughly a month also.
 
-### SanaCoinLemon
+### Sana CoinLemon
 
 Sana CoinLemon is a super cool person who also came from Cibles like many others.
 
@@ -154,9 +154,9 @@ On a lighter note, Crow is engaged and joined back in BSMP days and makes cool b
 
 Jamenson is an irl friend of Grillby who was introduced back in BSMP days.
 
-### Kesari
+### Cambrian
 
-Kesari is funny woman who is dating Katie and loves their girlfriend!! They joined back in BSMP days as "Kesari, witch of the jungle". They love creakings.
+Cambrian is funny woman who is dating Katie and loves their girlfriend!! They joined back in BSMP days as "Cambrian, witch of the jungle". They love creakings.
 
 ### Kman
 
@@ -164,7 +164,7 @@ Kman is a friend of Sypn_, who both joined mid-BSMP. Scarlett likes to lust over
 
 ### Melodii
 
-A friend of Kesari, equally if not more freaky than them. They like seals. They joined in PSMP-1.
+A friend of Cambrian, equally if not more freaky than them. They like seals. They joined in PSMP-1.
 
 ### Nyko
 
@@ -174,6 +174,10 @@ Nyko is a cool guy who is moderately active on the server. He joined in PSMP-1.
 
 Ditto of [Kman](figures.md#kman).
 
+### Badace
+
+Ace is the person that founded the unofficial nation "Nerchon" in BSMP-1. They also continued this nation is PSMP-3.
+
 ### Red
 
-Red is a cool girl who made an unofficial nation Nechron in BSMP. They did not continue it in PSMP, sadly, but it was super cool. They also squatted on my propety on Clemonstide for soooo long the server ended before they moved off.
+Red is a cool girl who helped build Nerchon in BSMP-1 and PSMP-3. They also squatted on my propety on Clemonstide in BSMP-1 for soooo long the server ended before they moved off.
